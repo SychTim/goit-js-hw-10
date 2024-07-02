@@ -1,1 +1,18 @@
-@import url('./header.css');
+.form {
+    width: 200px;
+    padding: 10px;
+}
+
+fieldset {
+    margin: 10px 0 10px;
+}
+
+.delay {
+    box-sizing: border-box;
+    width: 200px;
+}
+
+button {
+    box-sizing: border-box;
+    width: 200px;
+}
